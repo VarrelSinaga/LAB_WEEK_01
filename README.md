@@ -9,7 +9,7 @@ Input & Validasi: Mengambil teks dari input pengguna, membersihkannya (trim), da
 User Feedback: Memberikan umpan balik kepada pengguna melalui Toast message untuk error dan memperbarui TextView untuk hasil yang sukses.
 
 APLIKASI INI DIBUAT DENGAN ANDROID MINIMAL VERSI 10
-Git Repo: 
+Git Repo: https://github.com/VarrelSinaga/LAB_WEEK_01.git
 
 1. Buka di Android Studio
 2. Buka Android Studio.
