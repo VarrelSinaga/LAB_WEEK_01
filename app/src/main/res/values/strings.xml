@@ -8,5 +8,6 @@
     <string name="name_empty">Please to fill the name box with your name</string>
     <string name="id_hint">Insert your student ID..</string>
     <string name="id_greet">With ID:</string>
-    <string name="id_empty">Please to fill the id box with your id with 11 digits character</string>
+    <string name="id_empty">Please to fill the ID box with your student ID</string>
+    <string name="id_elevendigits">Student number has to be 11 digits long</string>
 </resources>

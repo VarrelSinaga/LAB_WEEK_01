@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
 
             if (!idInput.matches(Regex("\\d{11}"))) {
                 // Using a more specific error message would be better
-                Toast.makeText(this, getString(R.string.id_empty), Toast.LENGTH_LONG).show()
+                Toast.makeText(this, getString(R.string.id_elevendigits), Toast.LENGTH_LONG).show()
                 return@setOnClickListener
             }
             nameDisplay?.text = "${getString(R.string.name_greet)} ${nameInput}, ${getString(R.string.id_greet)} ${idInput}"
