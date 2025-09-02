@@ -7,7 +7,7 @@
     <string name="name_greet">My name is</string>
     <string name="name_empty">Please to fill the name box with your name</string>
     <string name="id_hint">Insert your student ID..</string>
-    <string name="id_greet">With ID: dfsjankfndsjkafjnk</string>
+    <string name="id_greet">With ID:</string>
     <string name="id_empty">Please to fill the ID box with your student ID</string>
     <string name="id_elevendigits">Student number has to be 11 digits long</string>
 </resources>
