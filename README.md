@@ -1,6 +1,9 @@
 Aplikasi Input Nama dan ID Mahasiswa
 Sebuah aplikasi Android sederhana yang dibuat dengan Kotlin untuk mengambil, memvalidasi, dan menampilkan input nama dan ID mahasiswa.
 
+Tautan Google Drive yang berisi Foto running app dan APK: 
+https://drive.google.com/drive/folders/1Zvlr8a34fYh7lPTBIpvpDKQ90Jx9QL40?usp=sharing
+
 Proyek ini adalah contoh dasar implementasi komponen UI Android, event listener, dan validasi input sederhana menggunakan Toast untuk feedback kepada pengguna.
 Aplikasi ini dibuat sebagai latihan dasar untuk memahami konsep-konsep inti dalam pengembangan Android, antara lain:
 Manajemen Layout (XML): Mendesain antarmuka pengguna dengan TextInputEditText untuk input, Button untuk aksi, dan TextView untuk output.
